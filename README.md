@@ -1,2 +1,0 @@
-# ReactNewsApp
-Created with CodeSandbox

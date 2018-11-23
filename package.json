@@ -1,0 +1,27 @@
+{
+  "name": "react-news-app",
+  "version": "1.0.0",
+  "description": "Fetch and save articles using News API.",
+  "keywords": [
+    "reactjs",
+    "javascript",
+    "newsapi",
+    "api",
+    "news"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "firebase": "5.4.2",
+    "re-base": "4.0.0",
+    "react": "16.4.2",
+    "react-dom": "16.5.0",
+    "react-scripts": "1.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
